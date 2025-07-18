@@ -150,6 +150,7 @@ These KPIs summarize the retail activity and show solid engagement through ratin
 
 - How to extract Retail Performance Analysis insights from data using simple but effective visuals
 - Best practices for designing dashboards for non-technical stakeholders
+  
 - Reinforced foundational knowledge in Power BI and Excel
 
 ## 📬 Contact
